@@ -26,7 +26,7 @@ Este projeto é um ambiente Docker simples que roda:
 1. **Clone o projeto** ou copie os arquivos para uma pasta:
 
 ```bash
-git clone origin git@github.com:carlosalbertomagnoferreira/docker_pagina_php_hostname.git
+git clone git@github.com:carlosalbertomagnoferreira/docker_pagina_php_hostname.git
 cd docker_pagina_php_hostname
 ````
 
