@@ -13,7 +13,7 @@ services:
       - mysql
 
   php:
-    build: ./php  # ⬅️ Agora ele constrói a imagem customizada
+    build: ./php
     volumes:
       - ./php:/var/www/html
     depends_on:
