@@ -24,6 +24,12 @@ Criar uma imagem Docker que combina Nginx e PHP-FPM para servir uma página `ind
 - `README.md`
   - Este arquivo: objetivo do projeto, funções dos arquivos, instruções de build/execution e observações.
 
+## Baixando image
+
+``` bash
+docker pull magnocarlos1988/docker_pagina_php_hostname:latest
+```
+
 ## Como construir a imagem
 
 No diretório do projeto (onde está o `Dockerfile`), execute:
